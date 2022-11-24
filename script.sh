@@ -1,1 +1,1 @@
-dbt run --project-dir loa --vars "{'periodo':'2022-11-02', 'usuario': 'pepito'}"
+dbt --debug --log-format json run --project-dir loa --log-format json --vars "{'periodo':'2022-11-02', 'usuario': 'pepito'}"
