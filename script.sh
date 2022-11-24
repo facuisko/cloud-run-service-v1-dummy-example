@@ -1,1 +1,1 @@
-dbt run --project-dir poc_dbt
+dbt run --project-dir loa
