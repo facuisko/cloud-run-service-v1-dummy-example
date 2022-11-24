@@ -1,1 +1,1 @@
-dbt run --project-dir loa --vars "{'periodo':'2022-11-03'}"
+dbt run --project-dir loa --vars "{'periodo':'2022-11-02', 'usuario': 'pepito'}"
